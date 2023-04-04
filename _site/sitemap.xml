@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/CV_Nuredin_Ali.pdf</loc>
-<lastmod>2022-10-20T23:17:51-05:00</lastmod>
+<lastmod>2023-04-04T11:08:49-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/errata/</loc>
@@ -10,14 +10,14 @@
 </url>
 <url>
 <loc>http://localhost:4000/home/</loc>
-<lastmod>2023-04-01T15:11:13-05:00</lastmod>
+<lastmod>2023-04-04T11:15:32-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 <lastmod>2023-02-07T22:48:55-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/papers/ERROR_ANALYSIS_OF_TIGRINYA___ENGLISH_MACHINE_TRANSLATION_SYSTEMS%20(1).pdf</loc>
+<loc>http://localhost:4000/papers/ERROR_ANALYSIS_OF_TIGRINYA_ENGLISH_MACHINE_TRANSLATION_SYSTEMS.pdf</loc>
 <lastmod>2023-04-01T14:40:31-05:00</lastmod>
 </url>
 <url>
